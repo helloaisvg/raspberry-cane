@@ -1,0 +1,249 @@
+** Message: 05:24:47.108: environement.vala:58: Exporting primary_variable
+** Message: 05:24:47.108: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 05:24:47.108: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 05:24:47.108: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 05:24:47.108: environement.vala:218: custom_data :
+** Message: 05:24:47.108: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 05:24:47.108: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 05:24:47.108: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 05:24:47.109: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.110: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 05:24:47.110: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 05:24:47.110: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.110: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:625): WARNING **: 05:24:47.111: utils.vala:70: No such file or directory
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “launcher_manager/autostart” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 05:24:47.112: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 05:24:47.113: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have group “Keymap”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “laptop_mode” in group “State”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “gnome” in group “Dbus”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “type” in group “Environment”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “ubuntu_menuproxy” in group “Environment”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “toolkit_integration” in group “Environment”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “gtk/overlay_scrollbar_disable” in group “Environment”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “qt/force_theme” in group “Environment”
+** Message: 05:24:47.114: settings.vala:540: Key file does not have key “qt/platform” in group “Environment”
+** Message: 05:24:47.115: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 05:24:47.115: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 05:24:47.115: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 05:24:47.115: environement.vala:79: Exporting variable
+** Message: 05:24:47.115: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 05:24:47.115: environement.vala:177: custom_config :
+** Message: 05:24:47.115: environement.vala:178: config_dirs :/etc/xdg
+** Message: 05:24:47.115: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 05:24:47.115: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 05:24:47.115: environement.vala:218: custom_data :
+** Message: 05:24:47.115: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 05:24:47.115: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 05:24:47.115: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 05:24:47.115: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.115: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:625): WARNING **: 05:24:47.116: utils.vala:70: No such file or directory
+** Message: 05:24:47.116: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 05:24:47.121: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.121: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 05:24:47.121: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 05:24:47.121: options.vala:164: Activate xsettings_manager build-in
+** Message: 05:24:47.121: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.121: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:625): WARNING **: 05:24:47.121: utils.vala:70: No such file or directory
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 05:24:47.141: app.vala:721: polkit separate
+** Message: 05:24:47.141: app.vala:721: polkit separate
+** Message: 05:24:47.150: app.vala:76: Launching lxpolkit 
+** Message: 05:24:47.150: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 05:24:47.150: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 05:24:47.150: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 05:24:47.151: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 05:24:47.165: app.vala:76: Launching lxpanel 
+** Message: 05:24:47.186: app.vala:76: Launching pcmanfm 
+
+** (lxsession:625): WARNING **: 05:24:47.205: app.vala:86: Failed to execute child process “xscreensaver” (No such file or directory)
+
+** (lxsession:625): WARNING **: 05:24:47.205: app.vala:87: Error when launching xscreensaver
+** Message: 05:24:47.217: options.vala:107: Create build-in Clipboard
+** Message: 05:24:47.219: main.vala:441: Check keymap_mode (null)
+** Message: 05:24:47.224: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-P1Ev7mKaq0xd/agent.698; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=700; export SSH_AGENT_PID;
+echo Agent pid 700;
+** Message: 05:24:47.468: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 05:24:47.531: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 05:24:47.596: x-terminal-emulator has very limited support, consider choose another terminal
+grep: /home/pi/.config/lxpanel/LXDE-pi/panels/*: No such file or directory
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 05:24:50.106: Connecting ...
+** Message: 05:24:50.106: Status changed to down
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:690): WARNING **: 05:24:50.327: Battery 0 not found
+
+(lxpanel:690): Gtk-CRITICAL **: 05:24:50.808: IA__gtk_image_set_from_pixbuf: assertion 'GTK_IS_IMAGE (image)' failed
+** Message: 05:24:51.108: Status changed to opened
+** Message: 05:24:51.108: Connected to dhcpcd-8.1.2
+** Message: 05:24:51.109: Status changed to connected
+** Message: 05:24:51.109: eth0: Link is down
+** Message: 05:24:51.109: wlan0: Associated with Redmi Note 14 Pro+
+** Message: 05:24:51.109: wlan0: Configured 192.168.10.110/24
+** Message: 05:24:51.111: wlan0: WPA status connected
+** Message: 05:24:51.111: wlan0: Received scan results
+[1038:1197:0430/052509.049495:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1038:1197:0430/052509.051261:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1038:1197:0430/052509.052042:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[1084:1084:0430/052509.240515:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1 times!
+** Message: 05:31:24.760: wlan0: Received scan results
+[1084:1084:0430/053206.131716:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053206.132035:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053207.372708:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 2 times!
+[1084:1084:0430/053213.394160:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 3 times!
+[1084:1084:0430/053213.722768:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053214.920089:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053216.118837:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053217.318576:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053217.952245:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053218.063802:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053218.340018:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053218.568202:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053218.872243:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053218.984003:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.048816:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.087726:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.177886:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.375984:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.616533:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053220.626380:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053220.785397:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053224.334045:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053224.439348:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+** Message: 05:32:24.760: wlan0: Received scan results
+** Message: 05:33:24.759: wlan0: Received scan results
+** Message: 05:34:24.764: wlan0: Received scan results
+** Message: 05:35:24.762: wlan0: Received scan results
+** Message: 05:36:24.764: wlan0: Received scan results
+[1084:1084:0430/053648.320531:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053648.323681:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053649.452853:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053649.460862:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053651.742187:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053651.747196:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053653.636127:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053653.637450:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053654.289910:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053654.292335:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053700.402592:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053700.404944:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+** Message: 05:37:24.765: wlan0: Received scan results
+[1084:1084:0430/053725.952605:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053725.955380:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053738.356093:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053738.366558:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053739.138584:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053739.139939:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053742.426613:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1084:1084:0430/053742.427596:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1084:1084:0430/053742.909690:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053742.910177:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053744.029937:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053744.032267:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053744.322761:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053747.901705:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053748.810735:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053748.961201:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053748.962320:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053750.161558:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053750.164891:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053750.654106:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053750.877877:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053751.281961:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053759.383393:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053759.748542:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053800.504489:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053800.870775:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053800.996693:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053801.001039:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053801.780756:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053801.782889:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053804.000318:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053804.010573:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053805.344588:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053805.347195:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053807.574553:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053807.802555:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053808.370181:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053811.254116:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053812.262581:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053813.297766:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053814.200543:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053814.632936:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053815.663275:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053816.263985:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+[1084:1084:0430/053818.148267:ERROR:raster_decoder.cc(2132)] [.RenderWorker-0x9cc1680]GL ERROR :GL_INVALID_VALUE : glCopySubTexture: Cannot clear non-combineable rects.
+[1084:1084:0430/053818.149327:ERROR:shared_image_representation.cc(179)] Attempt to read from an uninitialized SharedImage
+** Message: 05:38:24.764: wlan0: Received scan results
+** Message: 05:39:24.761: wlan0: Received scan results
+** Message: 05:40:24.765: wlan0: Received scan results
+** Message: 05:41:24.769: wlan0: Received scan results
+** Message: 05:42:24.767: wlan0: Received scan results
+** Message: 05:43:24.764: wlan0: Received scan results
+** Message: 05:44:24.764: wlan0: Received scan results
+Fontconfig error: Cannot load default config file: No such file: (null)
+** Message: 05:45:24.764: wlan0: Received scan results
+** Message: 05:46:24.769: wlan0: Received scan results
+** Message: 05:47:24.768: wlan0: Received scan results
+** Message: 05:48:24.770: wlan0: Received scan results
+** Message: 05:49:24.772: wlan0: Received scan results
+** Message: 05:50:24.770: wlan0: Received scan results
+** Message: 05:51:24.772: wlan0: Received scan results
+** Message: 05:52:24.779: wlan0: Received scan results
+** Message: 05:53:24.767: wlan0: Received scan results
